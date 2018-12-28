@@ -37,6 +37,10 @@ PointNet PointNet++ F-PointNet
 
 #### RoarNet
 - [RoarNet](paper/RoarNet:  A  Robust  3D  Object  Detection  based  onRegiOn  Approximation  Refinement-1811.03818.pdf)
+#### SECOND: Sparsely EmbeddedConvolutional Detection.pdf
+
+- [SECOND: Sparsely EmbeddedConvolutional Detection](paper/SECOND: Sparsely EmbeddedConvolutional Detection.pdf)
+
 ### 路径规划
 
 - [OpenPlanner Open Source Integrated Planner for Autonomous Navigation in Highly Dynamic Environments](paper/Open Source Integrated Planner for Autonomous Navigation in Highly Dynamic Environments.pdf)
