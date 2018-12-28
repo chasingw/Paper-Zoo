@@ -31,6 +31,12 @@ PointNet PointNet++ F-PointNet
 
 #### RCNN
 
+#### PointRCNN
+
+- [PointRCNN](paper/PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud-1812.04244.pdf)
+
+#### RoarNet
+- [RoarNet](paper/RoarNet:  A  Robust  3D  Object  Detection  based  onRegiOn  Approximation  Refinement-1811.03818.pdf)
 ### 路径规划
 
 - [OpenPlanner Open Source Integrated Planner for Autonomous Navigation in Highly Dynamic Environments](paper/Open Source Integrated Planner for Autonomous Navigation in Highly Dynamic Environments.pdf)
