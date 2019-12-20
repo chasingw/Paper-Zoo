@@ -2,9 +2,19 @@
 - 深度学习等相关论文 笔记
 - object detection 相关
 
+[TOC]
+
+
+
 ## paper list
 
-### 2D Object Detection
+### 2D Object Detection && CNN
+
+- [ResNeXt_1611.05431](./paper/ResNeXt_1611.05431.pdf)
+
+#### anchor free
+
+- [Soft Anchor-Point Object Detection-1911.12448](./paper/Soft Anchor-Point Object Detection-1911.12448.pdf)
 
 #### two-stage
 
@@ -50,6 +60,10 @@ Focal Loss for Dense Object Detection
   
 
 ### 3D Object Detection 
+
+#### PointPillars-1812.05784.pdf
+
+- [paper](./paper/PointPillars-1812.05784.pdf)
 
 [KITTI 3D Object Detection Evaluation](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d)
 
@@ -98,7 +112,21 @@ Focal Loss for Dense Object Detection
 
 - [SECOND: Sparsely EmbeddedConvolutional Detection](paper/SECOND: Sparsely EmbeddedConvolutional Detection.pdf)
 
+### pointcloud datasets
 
+- [KITTI](paper/Geiger2012CVPR.pdf)
+- [nuScenes](paper/nuScenes-1903.11027.pdf)
+- [Driving_Datasets_Literature_Review_1910.11968](./paper/Driving_Datasets_Literature_Review_1910.11968.pdf)
+
+### label tools about 3d pointcloud
+
+- [3D-BAT](paper/3D-BAT.pdf)
+- [LATTE](paper/LATTE-1904.09085.pdf)
+
+### Quantization Compression
+
+- [DEEP_COMPRESSION_1510.00149](paper/DEEP_COMPRESSION_1510.00149.pdf)
+- [Fixed_Point_Quantization_of_Deep_Convolutional_Networks 1511.06393](paper/Fixed_Point_Quantization_of_Deep_Convolutional_Networks_1511.06393.pdf)
 
 ### 点云补全
 
